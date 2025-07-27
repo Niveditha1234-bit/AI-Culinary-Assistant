@@ -5,36 +5,36 @@ Transform your available ingredients into gourmet recipes with AI-powered intell
 An advanced recipe generation platform that leverages artificial intelligence to create personalized, nutritious recipes with professional cooking guidance. Built with modern web technologies and intelligent algorithms for an exceptional user experience.
 
 Key Features:
-Intelligent Recipe Generation
-Advanced AI algorithms analyze ingredient combinations
-Context-aware recipe selection (Indian, Asian, International cuisines)
-Automatic cooking method optimization based on available ingredients
+Intelligent Recipe Generation:
+-Advanced AI algorithms analyze ingredient combinations
+-Context-aware recipe selection (Indian, Asian, International cuisines)
+-Automatic cooking method optimization based on available ingredients
 
-Comprehensive Nutritional Analysis
-Real-time calorie calculation per serving
-Detailed macronutrient breakdown (protein, carbs, fats)
-Portion-based nutritional insights for meal planning
+Comprehensive Nutritional Analysis:
+-Real-time calorie calculation per serving
+-Detailed macronutrient breakdown (protein, carbs, fats)
+-Portion-based nutritional insights for meal planning
 
-Smart Cooking Intelligence
-Automatic difficulty level assessment (Easy/Medium/Hard)
-Precise cooking time estimation
-Step-by-step instructions with professional timing
+Smart Cooking Intelligence:
+-Automatic difficulty level assessment (Easy/Medium/Hard)
+-Precise cooking time estimation
+-Step-by-step instructions with professional timing
 
-Professional Chef Guidance
-Context-specific cooking tips and techniques
-Ingredient preparation best practices
-Pro-level cooking hacks and shortcuts
+Professional Chef Guidance:
+-Context-specific cooking tips and techniques
+-Ingredient preparation best practices
+-Pro-level cooking hacks and shortcuts
 
-Modern User Experience
-Responsive glassmorphism design with lavender theme
-Smooth animations and interactive elements
-Mobile-first responsive architecture
-One-click recipe copying and sharing
+Modern User Experience:
+-Responsive glassmorphism design with lavender theme
+-Smooth animations and interactive elements
+-Mobile-first responsive architecture
+-One-click recipe copying and sharing
 
-Recipe Innovation
-Alternative preparation suggestions
-Creative ingredient substitutions
-Extended meal planning ideas
+Recipe Innovation:
+-Alternative preparation suggestions
+-Creative ingredient substitutions
+-Extended meal planning ideas
 
 Technology Architecture:
 Backend Stack
